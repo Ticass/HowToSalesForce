@@ -1,2 +1,3 @@
-# HowToSalesForce
-How to use the salesforce commerce cloud 
+# SALES FORCE CLOUD E-COMMERCE
+
+In this document, I will teach you how to connect to the 
