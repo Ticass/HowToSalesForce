@@ -23,11 +23,15 @@ In this document, I will teach you how to use the Sales force ecommerce dev plat
 * run "nvm use 6.17.1"
 
 ### Install Gulp Globally:
+
 * run "npm i -g gulp"
-###Install sass globally:
+
+### Install sass globally:
+
 * run "npm i -g sass"
 
 * Restart Powershell
+
 ### Build tools
 * npm install
 
