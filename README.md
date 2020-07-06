@@ -53,7 +53,7 @@ In this document, I will teach you how to use the Sales force ecommerce dev plat
 
 * press the "Add" button on the right side and enter this URL as the Destination
 
-* dont forget ot check the "Salesforce Commerce Cloud" checkbox!
+* dont forget to check the "Salesforce Commerce Cloud" checkbox!
 
 * (https://developer.salesforce.com/media/commercecloud/uxstudio/4.6)
 
